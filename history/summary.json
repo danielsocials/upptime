@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 61,
-    "timeWeek": 82,
+    "timeDay": 91,
+    "timeWeek": 83,
     "timeMonth": 89,
     "timeYear": 83,
-    "dailyMinutesDown": {
-      "2021-03-15": 202
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 109,
-    "timeWeek": 156,
-    "timeMonth": 151,
+    "timeDay": 75,
+    "timeWeek": 146,
+    "timeMonth": 148,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2021-03-15": 202
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.94%",
-    "time": 410,
-    "timeDay": 348,
-    "timeWeek": 451,
-    "timeMonth": 414,
-    "timeYear": 410,
+    "time": 409,
+    "timeDay": 237,
+    "timeWeek": 431,
+    "timeMonth": 408,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2021-03-15": 202
     }
@@ -65,18 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-03-15": 202
-    }
+    "dailyMinutesDown": {}
   }
 ]
