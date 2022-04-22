@@ -44,18 +44,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 257,
-    "timeWeek": 219,
-    "timeMonth": 279,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "timeDay": 188,
+    "timeWeek": 206,
+    "timeMonth": 274,
+    "timeYear": 322,
+    "dailyMinutesDown": {
+      "2022-04-22": 0
+    }
   },
   {
     "name": "Broken Site",
